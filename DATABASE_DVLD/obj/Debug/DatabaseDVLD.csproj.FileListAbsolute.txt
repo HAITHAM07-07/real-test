@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\DATABASE_DVLD\bin\Debug\DATABASE_DVLD.dll
+C:\Users\Lenovo\source\repos\DATABASE_DVLD\bin\Debug\DATABASE_DVLD.pdb
+C:\Users\Lenovo\source\repos\DATABASE_DVLD\obj\Debug\DatabaseDVLD.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DATABASE_DVLD\obj\Debug\DatabaseDVLD.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DATABASE_DVLD\obj\Debug\DATABASE_DVLD.dll
+C:\Users\Lenovo\source\repos\DATABASE_DVLD\obj\Debug\DATABASE_DVLD.pdb

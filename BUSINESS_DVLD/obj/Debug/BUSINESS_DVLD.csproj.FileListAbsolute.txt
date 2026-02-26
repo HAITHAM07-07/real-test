@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\BUSINESS_DVLD\bin\Debug\BUSINESS_DVLD.dll
+C:\Users\Lenovo\source\repos\BUSINESS_DVLD\bin\Debug\BUSINESS_DVLD.pdb
+C:\Users\Lenovo\source\repos\BUSINESS_DVLD\bin\Debug\DATABASE_DVLD.dll
+C:\Users\Lenovo\source\repos\BUSINESS_DVLD\bin\Debug\DATABASE_DVLD.pdb
+C:\Users\Lenovo\source\repos\BUSINESS_DVLD\obj\Debug\BUSINESS_DVLD.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BUSINESS_DVLD\obj\Debug\BUSINESS_DVLD.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BUSINESS_DVLD\obj\Debug\BUSINESS.04ABF980.Up2Date
+C:\Users\Lenovo\source\repos\BUSINESS_DVLD\obj\Debug\BUSINESS_DVLD.dll
+C:\Users\Lenovo\source\repos\BUSINESS_DVLD\obj\Debug\BUSINESS_DVLD.pdb
